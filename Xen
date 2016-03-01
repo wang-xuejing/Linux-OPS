@@ -1,2 +1,5 @@
-
 ## Xen Project ##
+Xen的工作模式：
+- pv:半虚拟化
+- fv:完全虚拟化
+- pv on hvm
